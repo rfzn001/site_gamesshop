@@ -96,7 +96,7 @@ section p {
     text-decoration: none;
 }
 
-.contact.container {
+#contact .container {
     display: block;
 }
 
